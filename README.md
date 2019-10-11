@@ -1,1 +1,1 @@
-# Mixxy - Soundcloud integrated BPM and Key song sorter application
+# Mixxy - Soundcloud integrated BPM and Key song sorter
